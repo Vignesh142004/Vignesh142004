@@ -8,7 +8,7 @@ I'm currently a third-year B. TECH student majoring in Information Technology. M
 
 * 🌍 Tiruppur,Tamil Nadu.
 * ✉️ You can reach me at [vigneshranganathan14@gmail.com](mailto:vigneshranganathan14@gmail.com)
-* 🧠 Currently diving into fullstack developement.
+* 🧠 Currently diving into frontend developement.
 
 ### Skills
 
