@@ -4,7 +4,7 @@
 <h4>Passionate Graduate Student Pursuing Information Technology</h4>
 <hr>
 
-I'm currently a third-year B. TECH student majoring in Information Technology. My passion lies in problem-solving.
+I'm currently a Final-year B. TECH student majoring in Information Technology. My passion lies in problem-solving.
 
 * 🌍 Tiruppur,Tamil Nadu.
 * ✉️ You can reach me at [vigneshranganathan14@gmail.com](mailto:vigneshranganathan14@gmail.com)
