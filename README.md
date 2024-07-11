@@ -58,6 +58,8 @@ I'm currently a Final-year B. TECH student majoring in Information Technology. M
 
 ![](https://leetcard.jacoblin.cool/vigneshranganathan14)
 
+## Language used
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thulasidharan23&show_icons=true&locale=en&layout=compact" alt="thulasidharan23" /></p>
 Thanks! :heart:
 
 ---
