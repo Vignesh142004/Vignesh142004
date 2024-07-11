@@ -4,7 +4,7 @@
 <h4>Passionate Graduate Student Pursuing Information Technology</h4>
 <hr>
 
-I'm currently a Final-year B. TECH student majoring in Information Technology. My passion lies in problem-solving.
+I'm currently a Final-year B. TECH student majoring in Information Technology. My passion lies in problem-solving and web development.
 
 * 🌍 Tiruppur,Tamil Nadu.
 * ✉️ You can reach me at [vigneshranganathan14@gmail.com](mailto:vigneshranganathan14@gmail.com)
@@ -52,15 +52,19 @@ I'm currently a Final-year B. TECH student majoring in Information Technology. M
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/Vignesh142004"><img src="https://github-readme-stats.vercel.app/api?username=Vignesh142004&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Vignesh142004's GitHub stats" /></a>
-
+### Language's Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vignesh142004&show_icons=true&locale=en&layout=compact" alt="Vignesh142004" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### My LeetCode
 
 ![](https://leetcard.jacoblin.cool/vigneshranganathan14)
-
-## Language's Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vignesh142004&show_icons=true&locale=en&layout=compact" alt="Vignesh142004" /></p>
-<br/>
 
 Thanks! :heart:
 
