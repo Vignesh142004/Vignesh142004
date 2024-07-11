@@ -60,7 +60,7 @@ I'm currently a Final-year B. TECH student majoring in Information Technology. M
 
 ## Language's Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vignesh142004&show_icons=true&locale=en&layout=compact" alt="Vignesh142004" /></p>
-
+<br/>
 
 Thanks! :heart:
 
